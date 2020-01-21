@@ -39,7 +39,10 @@
       "@vue/standard"
     ],
     "rules": {
-      "space-in-parens": "off"
+      "space-in-parens": "off",
+      "space-before-function-paren": "off",
+      "quotes": "off",
+      "semi": "off"
     },
     "parserOptions": {
       "parser": "babel-eslint"
